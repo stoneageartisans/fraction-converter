@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/media/daddy/Stuff/projects/android/fraction-converter/googleplayservices_lib/build/intermediates/bundles/default/libs/google-play-services.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="f7f95df469a059c2fc104374f5b275d15442ce61">
+        <dex dex="/media/daddy/Stuff/projects/android/fraction-converter/FractionConverter/build/intermediates/pre-dexed/release/google-play-services_8dfeaf64e160b0b7804bdd35f5f2ddfbf05f9d05.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/media/daddy/Stuff/projects/android/fraction-converter/androidsupportv7appcompat/build/intermediates/bundles/default/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="49cf715c139a550bbbb7e05286c0e0115df65cac">
+        <dex dex="/media/daddy/Stuff/projects/android/fraction-converter/FractionConverter/build/intermediates/pre-dexed/release/classes_a0d73471418518b51e70977126b2997473c5ee97.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/media/daddy/Stuff/projects/android/fraction-converter/googleplayservices_lib/build/intermediates/bundles/default/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="f246d3dfa1fe25a0416a10268a465c111503cbd8">
+        <dex dex="/media/daddy/Stuff/projects/android/fraction-converter/FractionConverter/build/intermediates/pre-dexed/release/classes_0a6c74254af11c4498fa7912b0b07136c62deacb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/media/daddy/Stuff/projects/android/fraction-converter/FractionConverter/libs/android-support-v4.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="efec67655f6db90757faa37201efcee2a9ec3507">
+        <dex dex="/media/daddy/Stuff/projects/android/fraction-converter/FractionConverter/build/intermediates/pre-dexed/release/android-support-v4_32c44832b6ab87f5136eda6701a8bfba9192000f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/media/daddy/Stuff/projects/android/fraction-converter/FractionConverter/libs/StartAppInApp-2.4.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="12356c21c15e847fce0d686b7b2003be119816fe">
+        <dex dex="/media/daddy/Stuff/projects/android/fraction-converter/FractionConverter/build/intermediates/pre-dexed/release/StartAppInApp-2.4.1_3faa5526951d0ef3aaa8af7e7968ff8b86943460.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/media/daddy/Stuff/projects/android/fraction-converter/androidsupportv7appcompat/build/intermediates/bundles/default/libs/android-support-v4.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="4a219732b1e18089eab96d145857c42f28251704">
+        <dex dex="/media/daddy/Stuff/projects/android/fraction-converter/FractionConverter/build/intermediates/pre-dexed/release/android-support-v4_e185b4f59abda1d856938c03b602daa812d3e35a.jar" />
+    </item>
+
+</items>

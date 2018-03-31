@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/media/daddy/Stuff/projects/android/fraction-converter/FractionConverter/build/intermediates/res/merged/debug/layout/layout_d2f.xml",
+        "source": "/media/daddy/Stuff/projects/android/fraction-converter/FractionConverter/src/main/res/layout/layout_d2f.xml"
+    },
+    {
+        "merged": "/media/daddy/Stuff/projects/android/fraction-converter/FractionConverter/build/intermediates/res/merged/debug/layout/layout_f2d.xml",
+        "source": "/media/daddy/Stuff/projects/android/fraction-converter/FractionConverter/src/main/res/layout/layout_f2d.xml"
+    },
+    {
+        "merged": "/media/daddy/Stuff/projects/android/fraction-converter/FractionConverter/build/intermediates/res/merged/debug/layout/layout_main.xml",
+        "source": "/media/daddy/Stuff/projects/android/fraction-converter/FractionConverter/src/main/res/layout/layout_main.xml"
+    }
+]

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Fraction Converter</string>
+    <string name="convert">\u2192</string>
+    <string name="separator">───</string>
+</resources>
